@@ -1,0 +1,32 @@
+Portfolio React App:
+
+1. npx create-react-app portfolio
+2. cd portfolio
+3. Install the foll packages for icons, fonts, animations:
+- npm i @emailjs/browser
+- npm i @fortawesome/free-brands-svg-icons
+- npm i @fortawesome/free-solid-svg-icons
+- npm i @fortawesome/react-fontawesome
+- npm i animate.css
+- npm i gsap-trial
+- npm i loaders.css
+- npm i react-leaflet
+(a warp-up library for using leaflet maps)
+- npm i react-loaders
+- npm i react-router-dom
+- npm i sass
+
+4. emailJS library for Mails:
+https://www.emailjs.com/docs/examples/reactjs/
+- Signup here and follow these steps:
+- Login, verify email
+- Create a new email Service
+- Link your Gmail to this
+- Successful
+- Make note of your templateID, ServiceID and PublicKey
+
+5. Map Library:
+https://react-leaflet.js.org/docs/api-map/
+- Imports for maps given
+- Know your coordinates for map
+
