@@ -34,6 +34,14 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ![image](https://github.com/divyapodila/My_Porfolio_React/assets/123135144/0783b17d-b266-4043-8a06-87908b157160)
 
+![image](https://github.com/divyapodila/My_Porfolio_React/assets/123135144/d10f87d3-1b76-4abf-9fd4-b9d53ddd6dbe)
+
+##Page Loader with Pacman
+
+![image](https://github.com/divyapodila/My_Porfolio_React/assets/123135144/5effa275-5155-44bf-87e8-b0e13b2d4cc4)
+
+
+
 
 
 
