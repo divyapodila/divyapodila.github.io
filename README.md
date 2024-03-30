@@ -30,5 +30,10 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
+###How my PortFolio Looks Like:
+
+![image](https://github.com/divyapodila/My_Porfolio_React/assets/123135144/0783b17d-b266-4043-8a06-87908b157160)
+
+
 
 
